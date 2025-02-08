@@ -4,7 +4,7 @@ This Django project offers a feature-rich file management system and real-time r
 
 ## Features
 
-### File Management.
+### File Management
 
 - **File Explorer**: Browse and navigate through directories.
 - **File Upload**: Upload files to the server.
